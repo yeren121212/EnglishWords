@@ -71,3 +71,5 @@ down the street 沿着街道
 fence 栅栏
 garage 车库
 yogurt 酸奶
+sunrise 日出
+seagull 海鸥
