@@ -73,3 +73,10 @@ garage 车库
 yogurt 酸奶
 sunrise 日出
 seagull 海鸥
+aid 帮助，助手
+be in good health 健康良好
+Tai Chi 太极
+slang 俚语
+racket 球拍
+sail 航行；帆
+recipe 食谱
