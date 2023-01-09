@@ -80,3 +80,5 @@ slang 俚语
 racket 球拍
 sail 航行；帆
 recipe 食谱
+put through 实行，完成；接通（电话）
+hang up 挂电话
